@@ -1,0 +1,30 @@
+﻿Quarter;Segment;Category;Sub-Category;Sales;Quantity
+Q1;Consumer;Office Supplies;Paper;16,448;2
+Q1;Home Office;Office Supplies;Labels;11,784;3
+Q1;Home Office;Office Supplies;Storage;272,736;3
+Q1;Home Office;Office Supplies;Binders;3,54;2
+Q1;Consumer;Office Supplies;Art;19,536;3
+Q2;Consumer;Office Supplies;Paper;19,44;3
+Q2;Corporate;Office Supplies;Art;12,78;3
+Q2;Home Office;Furniture;Chairs;2573,82;9
+Q2;Home Office;Office Supplies;Binders;609,98;2
+Q2;Home Office;Office Supplies;Art;5,48;2
+Q2;Home Office;Technology;Phones;391,98;2
+Q2;Home Office;Technology;Phones;755,96;4
+Q2;Home Office;Office Supplies;Fasteners;31,12;4
+Q3;Home Office;Office Supplies;Paper;6,54;1
+Q3;Consumer;Furniture;Furnishings;76,728;3
+Q3;Consumer;Office Supplies;Binders;10,43;7
+Q3;Consumer;Office Supplies;Art;9,344;2
+Q3;Consumer;Technology;Accessories;31,2;3
+Q3;Corporate;Office Supplies;Labels;2,89;1
+Q3;Corporate;Furniture;Furnishings;51,94;1
+Q3;Consumer;Furniture;Furnishings;9,94;2
+Q4;Corporate;Office Supplies;Envelopes;11,36;2
+Q4;Corporate;Office Supplies;Envelopes;50,94;3
+Q4;Corporate;Technology;Accessories;646,74;6
+Q4;Corporate;Office Supplies;Binders;5,64;3
+Q4;Corporate;Office Supplies;Storage;572,58;6
+Q4;Consumer;Furniture;Chairs;545,94;6
+Q4;Consumer;Office Supplies;Storage;1325,85;5
+Q4;Consumer;Furniture;Bookcases;333,999;3
